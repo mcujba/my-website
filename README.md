@@ -2,4 +2,4 @@
 
 Tis is a really awesome website
 
-Now wditing on update-readname branch
+Now wditing on update-readname branch, remotely
